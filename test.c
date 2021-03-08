@@ -18,6 +18,7 @@ int main(int argc, char *argv[])
 	printf("hello\n");
 	printf("world\n");
 	printf("12345\n");
+	printf("66666\n");
 	return 0;
 }
 
